@@ -12,3 +12,4 @@ In order to create the virtual X-ray data in Abaqus, this is what you need
 
 In order to analyse the virtual X-ray data and clincal X-ray data, You can run the open source code in ipython notebook which can be downloaded in this repository.
 
+The custom matlab code for multiscale bone remodeling can be found in the folder "multiscale bone remodeling". Unfortunately, the trained neural networks are too big to be hosted here. So we have put them here  
